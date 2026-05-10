@@ -128,3 +128,15 @@ This work was based on the following paper:
 
 - `Tsang, E. C., & Tong, P. (2020). Self-learning how to swim at low Reynolds number. Physical Review Fluids, 5(7), 074101. doi:10.1103/PhysRevFluids.5.074101`
 - `Najafi, A., & Golestanian, R. (2004). Simple swimmer at low Reynolds number: Three linked spheres. Physical Review E, 69(6), 062901. doi.org`
+
+
+
+---
+
+# NN based Actor Critic model
+
+- I also solved the same problem using Actor Critic RL algorithm.
+
+- Results are similar for 3 sphere case.
+
+- As before, this can also extended to multiple sphere case.
